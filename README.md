@@ -4,7 +4,7 @@
 * 🌎 Latino Americano
 * 🦜 Speak Portuguese(🇧🇷), English(🇺🇸) and Spanish(🇦🇷)
 * 📜 Bachelor of Information Systems
-* 🧑🏽‍💻 Work with Work Software Engineering
+* 🧑🏽‍💻 Work with Software Engineering
 * 😄 Pronouns: Ele/He/Él
 
 <br>
