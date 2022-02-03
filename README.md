@@ -31,5 +31,6 @@
 ##
 
 <a href = "mailto:tuliohenriquess@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.behance.net/tuliohds" target="_blank"><img height="28" width="90" src="https://cdn.worldvectorlogo.com/logos/behance-3.svg" target="_blank"></a>
 <a href="https://www.linkedin.com/in/tuliohds" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.behance.net/tuliohds" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg" height="28" target="_blank"></a>
+<a href="https://medium.com/@tuliohds" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="28" target="_blank"></a>
