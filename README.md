@@ -3,7 +3,7 @@
 
 * 🌎 Latino Americano
 * 🦜 Speak Portuguese(🇧🇷), English(🇺🇸) and Spanish(🇦🇷)
-* 📜 Bachelor of Information Systems
+* 📜 Master in Technological Innovation, Bachelor in Information Systems
 * 🧑🏽‍💻 Work with Software Engineering
 * 😄 Pronouns: Ele/He/Él
 
